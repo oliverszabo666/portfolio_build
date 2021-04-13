@@ -1,0 +1,55 @@
+{ "art": [
+    {
+        "title": "EZIAL merch design",
+        "desc": "Shirt design for my friend. It's based on a cartoon-y, 60-s type of animation look.",
+        "url": "https://drive.google.com/file/d/1_ZoKLiod3Fu2s7pnzZAwVkOhj6VI7LRf/view?usp=sharing"
+    },
+    {   
+        "title": "Animation: Hell inc.",
+        "desc": "My first animation. This was done almost a year ago.",
+        "url": "https://drive.google.com/file/d/1mV0hEgj0hSIAgX9OwTngTxV8nu7zy-qX/view?usp=sharing"
+    },
+    {   
+        "title": "Animation: Blue flames//Scary Gato",
+        "desc": "Made for an ongoing project for a music video.",
+        "url": "https://drive.google.com/file/d/1GKPiY3qjOOmSNpra7gCR7Xd_EeT30uKb/view?usp=sharing"
+    }
+],
+"work": [
+    {
+        "title": "mocknews.",
+        "desc": "News API with login system",
+        "content": "Our task was to create our own online newspaper / tech magazine. We also had to make a landing page, without using any img file or third party libraries. When the page opens up for the first time, we are redirected to the landing page. We used an API key from environment variables, and we implemented a bonus infinite scroll.",
+        "img": [
+            "url1",
+            "url2",
+            "url3",
+            "url4"
+        ],
+        "url": "https://github.com/onkelolesz/tech_news"
+    },
+    {
+        "title": "Star Wars API",
+        "desc": "Listing and voting of planets from the star wars universe",
+        "content": "Our task was to create a web application which shows data about the Star Wars Universe, store visitor preferences with cookies and handle user login with sessions. We also made a voting system which lets the logged in user to vote on their favourite planets.",
+        "img": [
+            "url1",
+            "url2",
+            "url3",
+            "url4"
+        ],
+        "url": "https://github.com/onkelolesz/star_wars_api"
+    },
+    {
+        "title": "Weather app",
+        "desc": "Displays weather data based on the selected input",
+        "content": "Web application that displays temperature/humidity/pressure and much more about the city selected either in the dropdown input or the search bar, which the user can use to search for more unknown places.",
+        "img": [
+            "url1",
+            "url2",
+            "url3",
+            "url4"
+        ],
+        "url": "https://github.com/onkelolesz/weather_app"
+    }
+]}
